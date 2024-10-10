@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="Do">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductor de Música</title>
+    <link rel="stylesheet" href="Estilo.css">
+</head>
+<body>
+    <div class="music-player-container">
+        <h1>Handhels Music</h1>
+
+        <!-- Filtro por artista -->
+        <div class="artist-filter">
+            <label for="artistSelect">Artista:</label>
+            <select id="artistSelect" onchange="applyFilters()">
+                <option value="all">Todos los artistas</option>
+            </select>
+        </div>
+
+        <!-- Filtro por género -->
+        <div class="genre-filter">
+            <label for="genreSelect">Género:</label>
+            <select id="genreSelect" onchange="applyFilters()">
+                <option value="all">Todos los géneros</option>
+            </select>
+        </div>
+
+        <div class="player-controls">
+            <audio id="audioPlayer" src="" preload="metadata"></audio>
+            <div id="trackInfo">
+                <h3 id="trackTitle">Selecciona una canción</h3>
+            </div>
+            <div class="controls">
+                <button id="prevBtn" onclick="prevSong()">⏮️</button>
+                <button id="playPauseBtn" onclick="playPause()">▶️</button>
+                <button id="nextBtn" onclick="nextSong()">⏭️</button>
+            </div>
+            <input type="range" id="progressBar" value="0" step="0.1" onchange="seekAudio()">
+            <p id="currentTime">0:00</p> / <p id="totalTime">0:00</p>
+        </div>
+
+        <div class="track-list">
+            <h2>Lista de Canciones</h2>
+            <ul id="trackList">
+                <!-- Las canciones se cargan aquí dinámicamente -->
+            </ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
