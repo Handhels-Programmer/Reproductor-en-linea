@@ -10,7 +10,11 @@
     <div class="music-player-container">
         <h1>Handhels Music</h1>
 
-        <!-- Filtro por artista -->
+        <div class="search-filter">
+            <label for="searchInput">Buscar Canción:</label>
+            <input type="text" id="searchInput" oninput="searchSongs()" placeholder="Ingresa el nombre de la canción">
+        </div>
+
         <div class="artist-filter">
             <label for="artistSelect">Artista:</label>
             <select id="artistSelect" onchange="applyFilters()">
@@ -18,7 +22,6 @@
             </select>
         </div>
 
-        <!-- Filtro por género -->
         <div class="genre-filter">
             <label for="genreSelect">Género:</label>
             <select id="genreSelect" onchange="applyFilters()">
@@ -35,6 +38,8 @@
                 <button id="prevBtn" onclick="prevSong()">⏮️</button>
                 <button id="playPauseBtn" onclick="playPause()">▶️</button>
                 <button id="nextBtn" onclick="nextSong()">⏭️</button>
+                <!-- Botón de reproducción aleatoria -->
+                <button id="randomBtn" onclick="playRandomSong()">🔀</button>
             </div>
             <input type="range" id="progressBar" value="0" step="0.1" onchange="seekAudio()">
             <p id="currentTime">0:00</p> / <p id="totalTime">0:00</p>
