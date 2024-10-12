@@ -2,8 +2,8 @@ const songs = [
     { title: "2 Catorce", src: "Musica/Urbano/2 Catorce.mp3", artists: ["Rauw Alejandro"], genre: "Urbano" },
     { title: "27 Mensajes", src: "Musica/Urbano/27 Mensajes.mp3", artists: ["Shadow Blow"], genre: "Urbano" },
     { title: "105 F (Remix)", src: "Musica/Urbano/105 F (Remix).mp3", artists: ["Kevvo", "Farruko", "Arcangel", "Myke Towers", "Darell", "Ñengo Flow", "Brytiago", "Chencho"], genre: "Urbano" },
-    { title: "200 MPH", src: "/Musica/Urbano/200 MPH.mp3", artists: ["Bad Bunny", "Diplo"], genre: "Urbano" },
-    { title: "Adentro", src: "/Musica/Urbano/Adentro.mp3", artists: ["Noriel", "Amenazzy"], genre: "Urbano" }
+    { title: "200 MPH", src: "Musica/Urbano/200 MPH.mp3", artists: ["Bad Bunny", "Diplo"], genre: "Urbano" },
+    { title: "Adentro", src: "Musica/Urbano/Adentro.mp3", artists: ["Noriel", "Amenazzy"], genre: "Urbano" }
     // Añade más canciones aquí
 ];
 
