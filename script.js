@@ -2,8 +2,14 @@ const songs = [
     { title: "2 Catorce", src: "Musica/Urbano/2 Catorce.mp3", artists: ["Rauw Alejandro"], genre: "Urbano" },
     { title: "27 Mensajes", src: "Musica/Urbano/27 Mensajes.mp3", artists: ["Shadow Blow"], genre: "Urbano" },
     { title: "105 F (Remix)", src: "Musica/Urbano/105 F (Remix).mp3", artists: ["Kevvo", "Farruko", "Arcangel", "Myke Towers", "Darell", "Ñengo Flow", "Brytiago", "Chencho"], genre: "Urbano" },
-    { title: "200 MPH", src: "/Musica/Urbano/200 MPH.mp3", artists: ["Bad Bunny", "Diplo"], genre: "Urbano" },
-    { title: "Adentro", src: "/Musica/Urbano/Adentro.mp3", artists: ["Noriel", "Amenazzy"], genre: "Urbano" }
+    { title: "200 MPH", src: "Musica/Urbano/200 MPH.mp3", artists: ["Bad Bunny", "Diplo"], genre: "Urbano" },
+    { title: "Adentro", src: "Musica/Urbano/Adentro.mp3", artists: ["Noriel", "Amenazzy"], genre: "Urbano" },
+    { title: "Aguacero", src: "Musica/Urbano/Aguacero.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Algo me gusta de ti", src: "Musica/Urbano/Algo me gusta de ti.mp3", artists: ["Wisin", "Yandel"], genre: "Urbano" },
+    { title: "Antes De Morirme", src: "Musica/Urbano/Antes De Morirme.mp3", artists: ["Miky Woodz"], genre: "Urbano" },
+    { title: "Ayer", src: "Musica/Urbano/Ayer.mp3", artists: ["Amenazzy", "Noriel"], genre: "Urbano" },
+    { title: "Baila", src: "Musica/Urbano/Baila.mp3", artists: ["Bulova"], genre: "Urbano" },
+
     // Añade más canciones aquí
 ];
 
