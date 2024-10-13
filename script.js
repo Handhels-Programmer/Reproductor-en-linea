@@ -1,9 +1,30 @@
 const songs = [
+    //Urbano
     { title: "2 Catorce", src: "Musica/Urbano/2 Catorce.mp3", artists: ["Rauw Alejandro"], genre: "Urbano" },
     { title: "27 Mensajes", src: "Musica/Urbano/27 Mensajes.mp3", artists: ["Shadow Blow"], genre: "Urbano" },
-    { title: "105 F (Remix)", src: "Musica/Urbano/105 F (Remix).mp3", artists: ["Kevvo", "Farruko", "Arcangel", "Myke Towers", "Darell", "Ñengo Flow", "Brytiago", "Chencho"], genre: "Urbano" },
+    { title: "105 F (RMX)", src: "Musica/Urbano/105 F (Remix).mp3", artists: ["Kevvo", "Farruko", "Arcangel", "Myke Towers", "Darell", "Ñengo Flow", "Brytiago", "Chencho"], genre: "Urbano" },
     { title: "200 MPH", src: "Musica/Urbano/200 MPH.mp3", artists: ["Bad Bunny", "Diplo"], genre: "Urbano" },
-    { title: "Adentro", src: "Musica/Urbano/Adentro.mp3", artists: ["Noriel", "Amenazzy"], genre: "Urbano" }
+    { title: "Adentro", src: "Musica/Urbano/Adentro.mp3", artists: ["Noriel", "Amenazzy"], genre: "Urbano" },
+    { title: "Aguacero", src: "Musica/Urbano/Aguacero.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Algo me gusta de ti", src: "Musica/Urbano/Algo me gusta de ti.mp3", artists: ["Wisin", "Yandel"], genre: "Urbano" },
+    { title: "Antes de morirme", src: "Musica/Urbano/Antes De Morirme.mp3", artists: ["Miky Woodz"], genre: "Urbano" },
+    { title: "Ayer", src: "Musica/Urbano/Ayer.mp3", artists: ["Amenazzy", "Noriel"], genre: "Urbano" },
+    { title: "Baila", src: "Musica/Urbano/Baila.mp3", artists: ["Bulova"], genre: "Urbano" },
+    { title: "Bailando sola", src: "Musica/Urbano/Bailando sola.mp3", artists: ["Don Omar"], genre: "Urbano" },
+    { title: "Bandolero", src: "Musica/Urbano/Bandolero.mp3", artists: ["Don Omar"], genre: "Urbano" },
+    { title: "Callaita", src: "Musica/Urbano/Callaita.mp3", artists: ["Bad Bunny", "Tainy"], genre: "Urbano" },
+    { title: "Calm my nerves", src: "Musica/Urbano/Calm my nerves.mp3", artists: ["Don Omar"], genre: "Urbano" },
+    { title: "Candy", src: "Musica/Urbano/Candy.mp3", artists: ["Plan B"], genre: "Urbano" },
+    { title: "Caro", src: "Musica/Urbano/Caro.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Censurarme (RMX)", src: "Musica/Urbano/Censurarme (RMX).mp3", artists: ["Eddie Dee"], genre: "Urbano" },
+    { title: "Conteo", src: "Musica/Urbano/Conteo.mp3", artists: ["Don Omar"], genre: "Urbano" },
+    { title: "Cuidau au au", src: "Musica/Urbano/Cuidau Au Au.mp3", artists: ["Cosculluela"], genre: "Urbano" },
+    { title: "Dakiti", src: "Musica/Urbano/Dakiti.mp3", artists: ["Bad Bunny", "Jhayco"], genre: "Urbano" },
+    { title: "Dale pipo (RMX)", src: "Musica/Urbano/Dale pipo (RMX).mp3", artists: ["Bulava", "Noriel", "Nacho", "Alfa"], genre: "Urbano" },
+    { title: "Danza kuduro", src: "Musica/Urbano/Danza kuduro.mp3", artists: ["Don Omar", "Lucenzo"], genre: "Urbano" },
+    { title: "De las 2", src: "Musica/Urbano/De las 2.mp3", artists: ["Norial", "Bad Bunny", "Arcangel"], genre: "Urbano" },
+    { title: "Delincuente", src: "Musica/Urbano/Delincuente.mp3", artists: ["Farruko", "Anuel AA", "Kendo Kaponi"], genre: "Urbano" },
+
     // Añade más canciones aquí
 ];
 
