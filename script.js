@@ -15,7 +15,32 @@ const songs = [
     { title: "Café con ron", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738508488/Urbano/Caf%C3%A9-con-ron-h.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
     { title: "Callaita", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738508828/Urbano/Callaita-h.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
     { title: "Calm my nerves", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738508968/Urbano/Calm-my-nerves-h.mp3", artists: ["Don Omar"], genre: "Urbano" },
-    { title: "Nuevo", src: "https:27-Mensajes-h.mp3", artists: ["Handhels"], genre: "Urbano" },
+    { title: "Candy", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738509591/Urbano/Candy-h.mp3", artists: ["Plan B"], genre: "Urbano" },
+    { title: "Caro", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738509722/Urbano/Caro-h.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Censurarme (Remix)", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738509841/Urbano/Censurarme-%28Remix%29-h.mp3", artists: ["Eddie Dee"], genre: "Urbano" },
+    { title: "Conteo", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738510050/Urbano/Conteo-h.mp3", artists: ["Don Omar"], genre: "Urbano" },
+    { title: "Cuidau au au", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738510398/Urbano/Cuidau-au-au-h.mp3", artists: ["Cosculluela"], genre: "Urbano" },
+    { title: "Dakiti", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738510713/Urbano/Dakiti-h.mp3", artists: ["Bad Bunny", "Jhay Cortez"], genre: "Urbano" },
+    { title: "Dale pipo (Remix)", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738513959/Urbano/Dale-pipo-%28Remix%29-h.mp3", artists: ["Bulova", "Nacho", "Noriel", "El Alfa"], genre: "Urbano" },
+    { title: "Danza kuduro", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738514097/Urbano/Danza-kuduro-h.mp3", artists: ["Don Omar"], genre: "Urbano" },
+    { title: "De las 2", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738514261/Urbano/De-las-2-h.mp3", artists: ["Noriel", "Bad Bunny", "Arcangel"], genre: "Urbano" },
+    { title: "Delincuente", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738514524/Urbano/Delincuente-h.mp3", artists: ["Farruko", "Anuel AA", "Kendo Kaponi"], genre: "Urbano" },
+    { title: "Desesperados", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738514845/Urbano/Desesperados-h.mp3", artists: ["Rauw Alejandro"], genre: "Urbano" },
+    { title: "Fantasias  (Unplugged)", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738515030/Urbano/Fantasias-%28Unplugged%29-h.mp3", artists: ["Rauw Alejandro", "Farruko"], genre: "Urbano" },
+    { title: "Después de la playa", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738515235/Urbano/Despue%CC%81s-de-la-Playa-h.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Diabla", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738516065/Urbano/Diabla-h.mp3", artists: ["Amenazzy", "NTG"], genre: "Urbano" },
+    { title: "Difícil de reemplazar", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738516234/Urbano/Dif%C3%ADcil-de-reemplazar-h.mp3", artists: ["Amenazzy"], genre: "Urbano" },
+    { title: "Diles", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738516431/Urbano/Diles-h.mp3", artists: ["Bad Bunny", "Ñengo Flow", "Ozuna", "Arcangel", "Farruko"], genre: "Urbano" },
+    { title: "Diosa", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738516592/Urbano/Diosa-h.mp3", artists: ["Myke Towers"], genre: "Urbano" },
+    { title: "DM", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738517333/Urbano/DM-h.mp3", artists: ["Cosculluela"], genre: "Urbano" },
+    { title: "Dos Mil 16", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738517543/Urbano/Dos-Mil-16-h.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "DtMF", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738517672/Urbano/DtMF-h.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Ebrio", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738517819/Urbano/Ebrio-h.mp3", artists: ["Amenazzy", "NTG"], genre: "Urbano" },
+    { title: "Efecto", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738517924/Urbano/Efecto-h.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "El clúb", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738518176/Urbano/El-cl%C3%BAb-h.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "El Sol & La Playa", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738519323/Urbano/El-Sol--La-Playa-h.mp3", artists: ["Monkey Black"], genre: "Urbano" },
+    { title: "Elegí", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738519491/Urbano/Eleg%C3%AD-h.mp3", artists: ["Rauw Alejandro", "Dalex", "Lenny Tavarez", "Dimelo Flow"], genre: "Urbano" },
+    { title: "Nuevo", src: "fyjfxggg", artists: ["ddsfsdf"], genre: "Urbano" },
 
     // Añade más canciones aquí
 ];
@@ -50,11 +75,12 @@ function playRandomSong() {
 
 // Cargar la lista de canciones en el DOM
 function loadTrackList(songList) {
-    trackList.innerHTML = '';  // Limpiar la lista anterior
-    songList.forEach((song, index) => {
+    trackList.innerHTML = '';  
+    const sortedSongs = [...songList].sort((a, b) => a.title.localeCompare(b.title)); // Ordenar por título
+    sortedSongs.forEach((song, index) => {
         const listItem = document.createElement('li');
         listItem.innerText = `${song.title} - ${song.artists.join(", ")}`;
-        listItem.onclick = () => loadSong(index, songList);  // Cargar la canción al hacer clic
+        listItem.onclick = () => loadSong(index, sortedSongs);  
         trackList.appendChild(listItem);
     });
 }
@@ -134,12 +160,12 @@ function applyFilters() {
 // Obtener todos los artistas únicos de las canciones
 function loadArtistOptions() {
     const artistSet = new Set();
-    songs.forEach(song => {
-        song.artists.forEach(artist => artistSet.add(artist));
-    });
+    songs.forEach(song => song.artists.forEach(artist => artistSet.add(artist)));
 
     const artistSelect = document.getElementById("artistSelect");
-    artistSet.forEach(artist => {
+    artistSelect.innerHTML = '<option value="all">Todos</option>';  // Agregar opción por defecto
+    
+    [...artistSet].sort().forEach(artist => {  // Ordenar antes de agregar
         const option = document.createElement("option");
         option.value = artist;
         option.innerText = artist;
@@ -153,7 +179,9 @@ function loadGenreOptions() {
     songs.forEach(song => genreSet.add(song.genre));
 
     const genreSelect = document.getElementById("genreSelect");
-    genreSet.forEach(genre => {
+    genreSelect.innerHTML = '<option value="all">Todos</option>';  // Agregar opción por defecto
+    
+    [...genreSet].sort().forEach(genre => {  // Ordenar antes de agregar
         const option = document.createElement("option");
         option.value = genre;
         option.innerText = genre;
@@ -167,17 +195,6 @@ function searchSongs() {
     const filteredBySearch = filteredSongs.filter(song => song.title.toLowerCase().includes(searchInput));  // Filtrar según el título
 
     loadTrackList(filteredBySearch);  // Cargar la lista filtrada por búsqueda
-}
-
-// Cargar la lista de canciones en el DOM (usamos la lista filtrada por defecto)
-function loadTrackList(songList) {
-    trackList.innerHTML = '';  // Limpiar la lista anterior
-    songList.forEach((song, index) => {
-        const listItem = document.createElement('li');
-        listItem.innerText = `${song.title} - ${song.artists.join(", ")}`;
-        listItem.onclick = () => loadSong(index, songList);  // Cargar la canción al hacer clic
-        trackList.appendChild(listItem);
-    });
 }
 
 // Cargar la lista de artistas y géneros al iniciar la página
