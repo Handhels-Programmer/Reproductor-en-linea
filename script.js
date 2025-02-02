@@ -2,8 +2,10 @@ const songs = [
     //Urbano
     { title: "2 Catorce", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738499528/2-Catorce-h.mp3", artists: ["Rauw Alejandro"], genre: "Urbano" },
     { title: "27 Mensajes", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738499902/27-Mensajes-h.mp3", artists: ["Shadow Blow"], genre: "Urbano" },
+    { title: "105 F (Remix)", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738501212/105-F-%28Remix%29-h.mp3", artists: ["Kevvo", "Farruko", "Arcangel", "Myke Towers", "Darell", "Ñengo Flow", "Brytiago", "Chencho"], genre: "Urbano" },
+    { title: "200 MPH", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738501813/200-MPH-h.mp3", artists: ["Bad Bunny", "Diplo"], genre: "Urbano" },
+    { title: "Nuevo", src: "https:27-Mensajes-h.mp3", artists: ["Handhels"], genre: "Urbano" },
 
-   
     
     // Añade más canciones aquí
 ];
