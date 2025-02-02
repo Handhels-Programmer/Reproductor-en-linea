@@ -1,12 +1,16 @@
 const songs = [
     //Urbano
-    { title: "2 Catorce", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738499528/2-Catorce-h.mp3", artists: ["Rauw Alejandro"], genre: "Urbano" },
-    { title: "27 Mensajes", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738499902/27-Mensajes-h.mp3", artists: ["Shadow Blow"], genre: "Urbano" },
-    { title: "105 F (Remix)", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738501212/105-F-%28Remix%29-h.mp3", artists: ["Kevvo", "Farruko", "Arcangel", "Myke Towers", "Darell", "Ñengo Flow", "Brytiago", "Chencho"], genre: "Urbano" },
-    { title: "200 MPH", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738501813/200-MPH-h.mp3", artists: ["Bad Bunny", "Diplo"], genre: "Urbano" },
+    { title: "2 Catorce", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738503780/Urbano/2-Catorce-h.mp3", artists: ["Rauw Alejandro"], genre: "Urbano" },
+    { title: "27 Mensajes", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738503822/Urbano/27-Mensajes-h.mp3", artists: ["Shadow Blow"], genre: "Urbano" },
+    { title: "105 F (Remix)", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738503869/Urbano/105-F-%28Remix%29-h.mp3", artists: ["Kevvo", "Farruko", "Arcangel", "Myke Towers", "Darell", "Ñengo Flow", "Brytiago", "Chencho"], genre: "Urbano" },
+    { title: "200 MPH", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738503760/Urbano/200-MPH-h.mp3", artists: ["Bad Bunny", "Diplo"], genre: "Urbano" },
+    { title: "Adentro", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738503837/Urbano/Adentro-h.mp3", artists: ["Amenazzy", "Noriel"], genre: "Urbano" },
+    { title: "Aguacero", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738503778/Urbano/Aguacero-h.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Algo me gusta de ti", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738503814/Urbano/Algo-me-gusta-de-ti-h.mp3", artists: ["Wissin", "Yandel"], genre: "Urbano" },
+    { title: "Antes de morirme", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738505050/Urbano/Antes-de-morirme-h.mp3", artists: ["Miky Woodz"], genre: "Urbano" },
+    { title: "Ayer", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738505231/Urbano/Ayer-h.mp3", artists: ["Amenazzy", "Noriel"], genre: "Urbano" },
     { title: "Nuevo", src: "https:27-Mensajes-h.mp3", artists: ["Handhels"], genre: "Urbano" },
 
-    
     // Añade más canciones aquí
 ];
 
