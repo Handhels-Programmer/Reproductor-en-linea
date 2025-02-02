@@ -9,6 +9,12 @@ const songs = [
     { title: "Algo me gusta de ti", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738503814/Urbano/Algo-me-gusta-de-ti-h.mp3", artists: ["Wissin", "Yandel"], genre: "Urbano" },
     { title: "Antes de morirme", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738505050/Urbano/Antes-de-morirme-h.mp3", artists: ["Miky Woodz"], genre: "Urbano" },
     { title: "Ayer", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738505231/Urbano/Ayer-h.mp3", artists: ["Amenazzy", "Noriel"], genre: "Urbano" },
+    { title: "Baila", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738507319/Urbano/Baila-h.mp3", artists: ["Bulova"], genre: "Urbano" },
+    { title: "Bailando sola", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738507446/Urbano/Bailando-sola-h.mp3", artists: ["Don Omar"], genre: "Urbano" },
+    { title: "Bandolero", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738507997/Urbano/Bandolero-h.mp3", artists: ["Don Omar"], genre: "Urbano" },
+    { title: "Café con ron", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738508488/Urbano/Caf%C3%A9-con-ron-h.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Callaita", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738508828/Urbano/Callaita-h.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Calm my nerves", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738508968/Urbano/Calm-my-nerves-h.mp3", artists: ["Don Omar"], genre: "Urbano" },
     { title: "Nuevo", src: "https:27-Mensajes-h.mp3", artists: ["Handhels"], genre: "Urbano" },
 
     // Añade más canciones aquí
