@@ -138,6 +138,7 @@ const songs = [
     { title: "Weltita", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738973655/Urbano/Weltita-h.mp3", artists: ["Bad Bunny", "Chuwi"], genre: "Urbano" },
     { title: "Y eso", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738973740/Urbano/Y-eso-h.mp3", artists: ["Bulova"], genre: "Urbano" },
     { title: "Ya cobré", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738973825/Urbano/Ya-cobr%C3%A9-h.mp3", artists: ["Amenazzy"], genre: "Urbano" },
+    { title: "Con sonido", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739024671/Urbano/Con-sonido-h.mp3", artists: ["Bulin 47", "Alofoke Music", "Ceky Viciny"], genre: "Bachata" },
 
 
     // Bachatas
@@ -157,20 +158,16 @@ const songs = [
     { title: "Quiero que sea mi estrella", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739023045/Bachata/Quiero-que-sea-mi-estrella-h.mp3", artists: ["Zacarías Ferreira"], genre: "Bachata" },
     { title: "Si tu cariño no está", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739023133/Bachata/Si-tu-cari%C3%B1o-no-est%C3%A1-h.mp3", artists: ["Anthony Santos"], genre: "Bachata" },
     { title: "Yo no voy a negar que me gustas", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739023381/Bachata/Yo-no-voy-a-negar-que-me-gustas-h.mp3", artists: ["Luis Miguel Del Amargue"], genre: "Bachata" },
-    { title: "-", src: "--", artists: ["---"], genre: "Bachata" },
-    { title: "-", src: "--", artists: ["---"], genre: "Bachata" },
-    { title: "-", src: "--", artists: ["---"], genre: "Bachata" },
-    { title: "-", src: "--", artists: ["---"], genre: "Bachata" },
-    { title: "-", src: "--", artists: ["---"], genre: "Bachata" },
-    { title: "-", src: "--", artists: ["---"], genre: "Bachata" },
-    { title: "-", src: "--", artists: ["---"], genre: "Bachata" },
-    { title: "-", src: "--", artists: ["---"], genre: "Bachata" },
-    { title: "-", src: "--", artists: ["---"], genre: "Bachata" },
-    { title: "-", src: "--", artists: ["---"], genre: "Bachata" },
-    { title: "-", src: "--", artists: ["---"], genre: "Bachata" },
-    { title: "-", src: "--", artists: ["---"], genre: "Bachata" },
-    { title: "-", src: "--", artists: ["---"], genre: "Bachata" },
+    { title: "Llora chiquilla", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739025367/Bachata/Llora-chiquilla-h.mp3", artists: ["Luis Miguel Del Amargue"], genre: "Bachata" },
+    { title: "Devuélveme la vida", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739025908/Bachata/Devu%C3%A9lveme-la-vida-h.mp3", artists: ["Luis Miguel Del Amargue"], genre: "Bachata" },
+    { title: "Tiempo para amar", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739027360/Bachata/Tiempo-para-amar-h.mp3", artists: ["Luis Miguel Del Amargue"], genre: "Bachata" },
+    { title: "Con qué ojos", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739028197/Bachata/Con-qu%C3%A9-ojos-h.mp3", artists: ["Hector Acosta"], genre: "Bachata" },
+    { title: "A donde ire sin ti", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739030283/Bachata/A-donde-ire-sin-ti-h.mp3", artists: ["Raulin Rodriguez"], genre: "Bachata" },
 
+
+    // Nuevas Musicas
+    { title: "Nombre", src: "url", artists: ["Artista"], genre: "Bachata" },
+    
     
 ];
 
