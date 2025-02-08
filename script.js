@@ -137,7 +137,7 @@ const songs = [
     { title: "Voy después", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738973526/Urbano/Voy-despu%C3%A9s-h.mp3", artists: ["Amenazzy"], genre: "Urbano" },
     { title: "Weltita", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738973655/Urbano/Weltita-h.mp3", artists: ["Bad Bunny", "Chuwi"], genre: "Urbano" },
     { title: "Y eso", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738973740/Urbano/Y-eso-h.mp3", artists: ["Bulova"], genre: "Urbano" },
-    { title: "Ya cobré", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738973825/Urbano/Ya-cobr%C3%A9-h.mp3", artists: ["Amenazzy"], genre: "Urbano" },    
+    { title: "Ya cobré", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738973825/Urbano/Ya-cobr%C3%A9-h.mp3", artists: ["Amenazzy"], genre: "Urbano" },
 
 
     // Bachatas
