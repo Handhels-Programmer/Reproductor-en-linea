@@ -138,7 +138,7 @@ const songs = [
     { title: "Weltita", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738973655/Urbano/Weltita-h.mp3", artists: ["Bad Bunny", "Chuwi"], genre: "Urbano" },
     { title: "Y eso", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738973740/Urbano/Y-eso-h.mp3", artists: ["Bulova"], genre: "Urbano" },
     { title: "Ya cobré", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738973825/Urbano/Ya-cobr%C3%A9-h.mp3", artists: ["Amenazzy"], genre: "Urbano" },
-    { title: "Con sonido", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739024671/Urbano/Con-sonido-h.mp3", artists: ["Bulin 47", "Alofoke Music", "Ceky Viciny"], genre: "Bachata" },
+    { title: "Con sonido", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739024671/Urbano/Con-sonido-h.mp3", artists: ["Bulin 47", "Alofoke Music", "Ceky Viciny"], genre: "Urbano" },
 
 
     // Bachatas
@@ -165,20 +165,20 @@ const songs = [
     { title: "A donde ire sin ti", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739030283/Bachata/A-donde-ire-sin-ti-h.mp3", artists: ["Raulin Rodriguez"], genre: "Bachata" },
 
 
-    // Nuevas Musicas
-    { title: "Ayo", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739031454/English/Ayo-h.mp3", artists: ["Chris Brown", "Tyga"], genre: "Bachata" },
-    { title: "God's Plan", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739031524/English/God%27s-Plan-h.mp3", artists: ["Drake"], genre: "Bachata" },
-    { title: "Nombre", src: "url", artists: ["Artista"], genre: "Bachata" },
-    { title: "Nombre", src: "url", artists: ["Artista"], genre: "Bachata" },
-    { title: "Nombre", src: "url", artists: ["Artista"], genre: "Bachata" },
-    { title: "Nombre", src: "url", artists: ["Artista"], genre: "Bachata" },
-    { title: "Nombre", src: "url", artists: ["Artista"], genre: "Bachata" },
-    { title: "Nombre", src: "url", artists: ["Artista"], genre: "Bachata" },
-    { title: "Nombre", src: "url", artists: ["Artista"], genre: "Bachata" },
+    // English
+    { title: "Ayo", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739031454/English/Ayo-h.mp3", artists: ["Chris Brown", "Tyga"], genre: "English" },
+    { title: "God's plan", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739031524/English/God%27s-Plan-h.mp3", artists: ["Drake"], genre: "English" },
+    { title: "Headlines", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739370400/English/Headlines-h.mp3", artists: ["Drake"], genre: "English" },
+    { title: "Hotline bling", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739370963/English/Hotline-Bling-h.mp3", artists: ["Drake"], genre: "English" },
+    { title: "Kiss kiss", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739371069/English/Kiss-kiss-h.mp3", artists: ["Chris Brown", "T-Pain"], genre: "English" },
+    { title: "Loyal", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739371347/English/Loyal-h.mp3", artists: ["Chris Brown", "Tyga", "Lil Wayne"], genre: "English" },
+    { title: "Perfect", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739371587/English/Perfect-h.mp3", artists: ["Ed Sheeran"], genre: "English" },
+    { title: "Stared from the bottom", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739371687/English/Stared-from-the-bottom-h.mp3", artists: ["Drake"], genre: "English" },
+    { title: "Thinking out loud", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1739371858/English/Thinking-out-loud-h.mp3", artists: ["Ed Sheeran"], genre: "English" },
 
 
     // Nuevas Musicas
-    { title: "Nombre", src: "url", artists: ["Artista"], genre: "Bachata" },
+    { title: "Nombre", src: "url", artists: ["Artista"], genre: "Genero" },
     
     
 ];
