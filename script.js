@@ -1,6 +1,6 @@
 const songs = [
     // Urbano
-    { title: "+ Picky (Remix)", src: "/Musica/Urbano/+ Picky (Remix).mp3", artists: ["Amenazzy", "Titoflow", "J Abdiel"], genre: "Urbano" },
+    { title: "+ Picky (Remix)", src: "Musica/Urbano/+ Picky (Remix).mp3", artists: ["Amenazzy", "Titoflow", "J Abdiel"], genre: "Urbano" },
     { title: "2 Catorce", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738503780/Urbano/2-Catorce-h.mp3", artists: ["Rauw Alejandro"], genre: "Urbano" },
     { title: "27 Mensajes", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738503822/Urbano/27-Mensajes-h.mp3", artists: ["Shadow Blow"], genre: "Urbano" },
     { title: "105F (Remix)", src: "https://res.cloudinary.com/dllbhc3yl/video/upload/v1738503869/Urbano/105-F-%28Remix%29-h.mp3", artists: ["Kevvo", "Farruko", "Arcangel", "Myke Towers", "Darell", "Ñengo Flow", "Brytiago", "Chencho"], genre: "Urbano" },
