@@ -38,7 +38,20 @@ const songs = [
     { title: "Diosa", src: "Musica/Urbano/Diosa.mp3", artists: ["Myke Towers"], genre: "Urbano" },
     { title: "DM", src: "Musica/Urbano/DM.mp3", artists: ["Cosculluela"], genre: "Urbano" },
     { title: "Dos Mil 16", src: "Musica/Urbano/Dos Mil 16.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
-    { title: "DtMF", src: "Musica/Urbano/DtMF.mp3", artists: ["Bad Bunny"], genre: "Urbano" },    
+    { title: "DtMF", src: "Musica/Urbano/DtMF.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Ebrio", src: "Musica/Urbano/Ebrio.mp3", artists: ["Amenazzy", "NTG"], genre: "Urbano" },
+    { title: "Efecto", src: "Musica/Urbano/Efecto.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "El clúb", src: "Musica/Urbano/El clúb.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "El Sol & La Playa", src: "Musica/Urbano/El Sol & La Playa.mp3", artists: ["Monkey Black"], genre: "Urbano" },
+    { title: "Elegi", src: "Musica/Urbano/Elegi.mp3", artists: ["Rauw Alejandro", "Dalex", "Lenny Tavarez", "Dimelo Flow"], genre: "Urbano" },
+    { title: "Ella se contradice (RMX)", src: "Musica/Urbano/Ella se contradice (RMX).mp3", artists: ["Baby Rasta & Gringo", "Don Omar", "Kendo", "Syko"], genre: "Urbano" },
+    { title: "En una caja de muerto", src: "Musica/Urbano/En una caja de muerto.mp3", artists: ["Amenazzy", "El Alfa"], genre: "Urbano" },
+    { title: "Entregala", src: "Musica/Urbano/Entregala.mp3", artists: ["Bulova"], genre: "Urbano" },
+    { title: "Eoo", src: "Musica/Urbano/Eoo.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Espuma", src: "Musica/Urbano/Espuma.mp3", artists: ["Rauw Alejandro", "De La Ghetto"], genre: "Urbano" },
+    { title: "Estamos bien", src: "Musica/Urbano/Estamos bien.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Estilo de vida", src: "Musica/Urbano/Estilo de vida.mp3", artists: ["Amenazzy"], genre: "Urbano" },
+    { title: "Explicito", src: "Musica/Urbano/Explicito.mp3", artists: ["Myke Towers"], genre: "Urbano" },
    
 
     // Bachatas
