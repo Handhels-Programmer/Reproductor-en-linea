@@ -67,6 +67,18 @@ const songs = [
     { title: "Ketu tecré", src: "Musica/Urbano/Ketu tecré.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
     { title: "Kloufrens", src: "Musica/Urbano/Kloufrens.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
     { title: "Krippy Kush", src: "Musica/Urbano/Krippy Kush.mp3", artists: ["Farruko", "Bad Bunny"], genre: "Urbano" },
+    { title: "La Chanty", src: "Musica/Urbano/La Chanty.mp3", artists: ["Amenazzy"], genre: "Urbano" },
+    { title: "La Curiosidad", src: "Musica/Urbano/La curiosidad.mp3", artists: ["Jay Wheeler", "DJ Nelson", "Myke Towers"], genre: "Urbano" },
+    { title: "La Mudanza", src: "Musica/Urbano/La mudanza.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "La playa", src: "Musica/Urbano/La playa.mp3", artists: ["Myke Towers"], genre: "Urbano" },
+    { title: "Lala", src: "Musica/Urbano/Lala.mp3", artists: ["Myke Towers"], genre: "Urbano" },
+    { title: "Le gusta eso", src: "Musica/Urbano/Le gusta eso.mp3", artists: ["Bulova"], genre: "Urbano" },
+    { title: "Lean", src: "Musica/Urbano/Lean.mp3", artists: ["Amenazzy", "Bad Bunny", "Lito Kirino"], genre: "Urbano" },
+    { title: "Llegara", src: "Musica/Urbano/Llegara.mp3", artists: ["Myke Towers"], genre: "Urbano" },
+    { title: "Lo que le pasó a hawaii", src: "Musica/Urbano/Lo que le pasó a hawaii.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Lo que yo diga", src: "Musica/Urbano/Lo que yo diga.mp3", artists: ["El Alfa", "Bad Bunny", "Jon Z", "Farruko", "Miky Woodz"], genre: "Urbano" },
+    { title: "Loca (RMX)", src: "Musica/Urbano/Loca (RMX).mp3", artists: ["Khea", "Duki", "Cazzu", "Bad Bunny"], genre: "Urbano" },
+    { title: "LSD", src: "Musica/Urbano/LSD.mp3", artists: ["Amenazzy"], genre: "Urbano" },
    
 
     // Bachatas
