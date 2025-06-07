@@ -10,7 +10,21 @@ const songs = [
     { title: "Algo me gusta de ti", src: "Musica/Urbano/Algo me gusta de ti.mp3", artists: ["Wisin & Yandel"], genre: "Urbano" },
     { title: "Antes de morirme", src: "Musica/Urbano/Antes de morirme.mp3", artists: ["Miky Woodz"], genre: "Urbano" },
     { title: "Ayer", src: "Musica/Urbano/Ayer.mp3", artists: ["Amenazzy", "Noriel"], genre: "Urbano" },
-    { title: "Nombre", src: "url", artists: ["Artista"], genre: "Urbano" },
+    { title: "Baby", src: "Musica/Urbano/Baby.mp3", artists: ["Amenazzy", "Nicky Jam", "Farruko"], genre: "Urbano" },
+    { title: "Baila", src: "Musica/Urbano/Baila.mp3", artists: ["Bulova"], genre: "Urbano" },
+    { title: "Bailando sola", src: "Musica/Urbano/Bailando sola.mp3", artists: ["Don Omar"], genre: "Urbano" },
+    { title: "Bandolero", src: "Musica/Urbano/Bandolero.mp3", artists: ["Don Omar"], genre: "Urbano" },
+    { title: "Café con ron", src: "Musica/Urbano/Café con ron.mp3", artists: ["Bad Bunny", "Los Pleneros De La Cresta"], genre: "Urbano" },
+    { title: "Callaita", src: "Musica/Urbano/Callaita.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Calm my nerves", src: "Musica/Urbano/Calm my nerves.mp3", artists: ["Don Omar"], genre: "Urbano" },
+    { title: "Candy", src: "Musica/Urbano/Candy.mp3", artists: ["Plan B"], genre: "Urbano" },
+    { title: "Carita bonita", src: "Musica/Urbano/Carita bonita.mp3", artists: ["Amenazzy", "NAYO"], genre: "Urbano" },
+    { title: "Caro", src: "Musica/Urbano/Caro.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Censurarme (RMX)", src: "Musica/Urbano/Censurarme (RMX).mp3", artists: ["Eddie Dee"], genre: "Urbano" },
+    { title: "Chimbita", src: "Musica/Urbano/Chimbita.mp3", artists: ["Amenazzy"], genre: "Urbano" },
+    { title: "Con Sonido", src: "Musica/Urbano/Con Sonido.mp3", artists: ["Bulin 47", "Alofoke Music", "Ceky Viciny"], genre: "Urbano" },
+    { title: "Conteo", src: "Musica/Urbano/Conteo.mp3", artists: ["Don Omar"], genre: "Urbano" },
+    { title: "Cuidau Au Au", src: "Musica/Urbano/Cuidau Au Au.mp3", artists: ["Cosculluela"], genre: "Urbano" },
    
 
     // Bachatas
@@ -20,7 +34,7 @@ const songs = [
    
 
     // Nuevas Musicas
-    { title: "Nombre", src: "url", artists: ["Artista"], genre: "Genero" },
+    { title: "Nombre", src: "Musica/Urbano", artists: ["Artista"], genre: "Urbano" },
     
     
 ];
