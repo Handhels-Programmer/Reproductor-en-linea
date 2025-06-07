@@ -52,6 +52,21 @@ const songs = [
     { title: "Estamos bien", src: "Musica/Urbano/Estamos bien.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
     { title: "Estilo de vida", src: "Musica/Urbano/Estilo de vida.mp3", artists: ["Amenazzy"], genre: "Urbano" },
     { title: "Explicito", src: "Musica/Urbano/Explicito.mp3", artists: ["Myke Towers"], genre: "Urbano" },
+    { title: "Fantasias  (Unplugged)", src: "Musica/Urbano/Fantasias  (Unplugged).mp3", artists: ["Rauw Alejandro", "Farruko"], genre: "Urbano" },
+    { title: "Favorito de los capos (RMX)", src: "Musica/Urbano/Favorito de los capos (RMX).mp3", artists: ["Flow Mafia", "Arcangel", "Bad Bunny"], genre: "Urbano" },
+    { title: "Fina", src: "Musica/Urbano/Fina.mp3", artists: ["Bad Bunny", "Young Miko"], genre: "Urbano" },
+    { title: "Flow Cabron", src: "Musica/Urbano/Flow Cabron.mp3", artists: ["Arcangel", "Tali"], genre: "Urbano" },
+    { title: "Fronteamos Porque Podemos", src: "Musica/Urbano/Fronteamos Porque Podemos.mp3", artists: ["De La Ghetto", "Daddy Yankee", "Yandel", "Ñengo Flow"], genre: "Urbano" },
+    { title: "Grita", src: "Musica/Urbano/Grita.mp3", artists: ["Amenazzy"], genre: "Urbano" },
+    { title: "Haganme El Saludo", src: "Musica/Urbano/Haganme El Saludo.mp3", artists: ["Bulova"], genre: "Urbano" },
+    { title: "Hey Chanty", src: "Musica/Urbano/Hey Chanty.mp3", artists: ["Amenazzy"], genre: "Urbano" },
+    { title: "Im all the way up", src: "Musica/Urbano/Im all the way up.mp3", artists: ["Bulova"], genre: "Urbano" },
+    { title: "In Da Getto", src: "Musica/Urbano/In Da Getto.mp3", artists: ["J Balvin", "Skrillex"], genre: "Urbano" },
+    { title: "Influencer", src: "Musica/Urbano/Influencer.mp3", artists: ["Amenazzy"], genre: "Urbano" },
+    { title: "JS4E", src: "Musica/Urbano/JS4E.mp3", artists: ["Arcangel"], genre: "Urbano" },
+    { title: "Ketu tecré", src: "Musica/Urbano/Ketu tecré.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Kloufrens", src: "Musica/Urbano/Kloufrens.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Krippy Kush", src: "Musica/Urbano/Krippy Kush.mp3", artists: ["Farruko", "Bad Bunny"], genre: "Urbano" },
    
 
     // Bachatas
