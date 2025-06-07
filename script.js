@@ -25,6 +25,20 @@ const songs = [
     { title: "Con Sonido", src: "Musica/Urbano/Con Sonido.mp3", artists: ["Bulin 47", "Alofoke Music", "Ceky Viciny"], genre: "Urbano" },
     { title: "Conteo", src: "Musica/Urbano/Conteo.mp3", artists: ["Don Omar"], genre: "Urbano" },
     { title: "Cuidau Au Au", src: "Musica/Urbano/Cuidau Au Au.mp3", artists: ["Cosculluela"], genre: "Urbano" },
+    { title: "Dakiti", src: "Musica/Urbano/Dakiti.mp3", artists: ["Bad Bunny", "Jhay Cortez"], genre: "Urbano" },
+    { title: "Dale pipo (RMX)", src: "Musica/Urbano/Dale pipo (RMX).mp3", artists: ["Bulova", "Nacho", "Noriel", "El Alfa"], genre: "Urbano" },
+    { title: "Danza kuduro", src: "Musica/Urbano/Danza kuduro.mp3", artists: ["Don Omar"], genre: "Urbano" },
+    { title: "De las 2", src: "Musica/Urbano/De las 2.mp3", artists: ["Noriel", "Bad Bunny", "Arcangel"], genre: "Urbano" },
+    { title: "Delincuente", src: "Musica/Urbano/Delincuente.mp3", artists: ["Farruko", "Anuel AA", "Kendo Kaponi"], genre: "Urbano" },
+    { title: "Desesperados", src: "Musica/Urbano/Desesperados.mp3", artists: ["Rauw Alejandro"], genre: "Urbano" },
+    { title: "Despues de la Playa", src: "Musica/Urbano/Despues de la Playa.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Diabla", src: "Musica/Urbano/Diabla.mp3", artists: ["Amenazzy", "NTG"], genre: "Urbano" },
+    { title: "Difícil De Reemplazar", src: "Musica/Urbano/Difícil De Reemplazar.mp3", artists: ["Amenazzy"], genre: "Urbano" },
+    { title: "Diles", src: "Musica/Urbano/Diles.mp3", artists: ["Bad Bunny", "Ñengo Flow", "Ozuna", "Arcangel", "Farruko"], genre: "Urbano" },
+    { title: "Diosa", src: "Musica/Urbano/Diosa.mp3", artists: ["Myke Towers"], genre: "Urbano" },
+    { title: "DM", src: "Musica/Urbano/DM.mp3", artists: ["Cosculluela"], genre: "Urbano" },
+    { title: "Dos Mil 16", src: "Musica/Urbano/Dos Mil 16.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "DtMF", src: "Musica/Urbano/DtMF.mp3", artists: ["Bad Bunny"], genre: "Urbano" },    
    
 
     // Bachatas
