@@ -79,7 +79,24 @@ const songs = [
     { title: "Lo que yo diga", src: "Musica/Urbano/Lo que yo diga.mp3", artists: ["El Alfa", "Bad Bunny", "Jon Z", "Farruko", "Miky Woodz"], genre: "Urbano" },
     { title: "Loca (RMX)", src: "Musica/Urbano/Loca (RMX).mp3", artists: ["Khea", "Duki", "Cazzu", "Bad Bunny"], genre: "Urbano" },
     { title: "LSD", src: "Musica/Urbano/LSD.mp3", artists: ["Amenazzy"], genre: "Urbano" },
-   
+    { title: "Madrid", src: "Musica/Urbano/Madrid.mp3", artists: ["Maluma", "Myke Towers"], genre: "Urbano" },
+    { title: "Mala eligiendo", src: "Musica/Urbano/Mala eligiendo.mp3", artists: ["Amenazzy"], genre: "Urbano" },
+    { title: "Malo", src: "Musica/Urbano/Malo.mp3", artists: ["Amenazzy", "Lyanno"], genre: "Urbano" },
+    { title: "Marijuana", src: "Musica/Urbano/Marijuana.mp3", artists: ["Amenazzy", "Ben Carrillo"], genre: "Urbano" },
+    { title: "Me Acostumbre", src: "Musica/Urbano/Me Acostumbre.mp3", artists: ["Arcangel", "Bad Bunny"], genre: "Urbano" },
+    { title: "Me Fui De Vacaciones", src: "Musica/Urbano/Me Fui De Vacaciones.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Me Hace Falta", src: "Musica/Urbano/Me Hace Falta.mp3", artists: ["Amenazzy"], genre: "Urbano" },
+    { title: "Me Porto Bonito", src: "Musica/Urbano/Me Porto Bonito.mp3", artists: ["Bad Bunny", "Chencho"], genre: "Urbano" },
+    { title: "Mi Cuarto", src: "Musica/Urbano/Mi Cuarto.mp3", artists: ["Jerry Di"], genre: "Urbano" },
+    { title: "Mi nena", src: "Musica/Urbano/Mi nena.mp3", artists: ["Amenazzy", "Iz BLAKK"], genre: "Urbano" },
+    { title: "MMG", src: "Musica/Urbano/MMG.mp3", artists: ["Amenazzy", "Eklectico"], genre: "Urbano" },
+    { title: "Moscow Mule", src: "Musica/Urbano/Moscow Mule.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
+    { title: "Munchies De Mujeres", src: "Musica/Urbano/Munchies De Mujeres.mp3", artists: ["Amenazzy"], genre: "Urbano" },
+    { title: "Museo", src: "Musica/Urbano/Museo.mp3", artists: ["Rauw Alejandro"], genre: "Urbano" },
+    { title: "Nombre", src: "Musica/Urbano", artists: ["Artista"], genre: "Urbano" },
+    { title: "Nombre", src: "Musica/Urbano", artists: ["Artista"], genre: "Urbano" },
+    { title: "Nombre", src: "Musica/Urbano", artists: ["Artista"], genre: "Urbano" },
+
 
     // Bachatas
    
