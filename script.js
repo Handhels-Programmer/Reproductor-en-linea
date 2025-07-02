@@ -93,10 +93,11 @@ const songs = [
     { title: "Moscow Mule", src: "Musica/Urbano/Moscow Mule.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
     { title: "Munchies De Mujeres", src: "Musica/Urbano/Munchies De Mujeres.mp3", artists: ["Amenazzy"], genre: "Urbano" },
     { title: "Museo", src: "Musica/Urbano/Museo.mp3", artists: ["Rauw Alejandro"], genre: "Urbano" },
-    { title: "Nombre", src: "Musica/Urbano", artists: ["Artista"], genre: "Urbano" },
-    { title: "Nombre", src: "Musica/Urbano", artists: ["Artista"], genre: "Urbano" },
-    { title: "Nombre", src: "Musica/Urbano", artists: ["Artista"], genre: "Urbano" },
-
+    { title: "Na con Nah", src: "Musica/Urbano/Na con Nah.mp3", artists: ["Amenazzy"], genre: "Urbano" },
+    { title: "Nadie", src: "Musica/Urbano/Nadie.mp3", artists: ["Amenazzy", "Flow Mafia"], genre: "Urbano" },
+    { title: "Netflixxx", src: "Musica/Urbano/Netflixxx.mp3", artists: ["Brytiago", "Bad Bunny"], genre: "Urbano" },
+    { title: "Not To Much", src: "Musica/Urbano/Not To Much.mp3", artists: ["Don Omar", "Zion"], genre: "Urbano" },
+    { title: "Nuevayol", src: "Musica/Urbano/Nuevayol.mp3", artists: ["Bad Bunny"], genre: "Urbano" },
 
     // Bachatas
    
